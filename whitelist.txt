@@ -42,3 +42,7 @@
 @@||gdl.adnlmedia.nl^
 @@||kpn.nl^
 @@||riven.wtfp.nl^
+
+@@||ads.google.com
+@@||
+
