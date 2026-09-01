@@ -1,48 +1,34 @@
-! Title: Persoonlijke allowlist
-! Description: Domeinen die niet geblokkeerd mogen worden door AdGuard Home
-! Homepage: https://github.com/GEBRUIKERSNAAM/REPONAAM
-! Last modified: 2026-08-13
-!
-! Syntax: @@||domein^ staat het domein en alle subdomeinen toe.
-
-! --- Social / API endpoints ---
+@@||ads.google.com^
+@@||adwords.google.com^
+@@||ah.nl^
+@@||amp-api-edge.apps.apple.com^
+@@||amp-api-search-edge.apps.apple.com^
+@@||analytics.google.com^
+@@||app-measurement.com^
+@@||apple.com^
+@@||eulatracking-public-service-prod06.ol.epicgames.com^
+@@||gfe.nvidia.com^
 @@||graph.facebook.com^
 @@||graph.instagram.com^
-@@||i.instagram.com^
-
-! --- Analytics / webshop ---
-@@||analytics.google.com^
 @@||hotjar.com^
 @@||hotjar.io^
-@@||miniaturemakes.nl^
-@@||pagespeed.web.dev^
-@@||wistia.com^
-
-! --- Media / streaming ---
+@@||i.instagram.com^
 @@||js.media-lab.ai^
+@@||logsink.devices.nest.com^
+@@||mango3d.net^
+@@||miniaturemakes.nl^
+@@||nvgs.nvidia.cn^
 @@||plex.direct^
 @@||plex.tv^
 @@||s.youtube.com^
-@@||topspin.npo.nl^
-
-! --- Apple ---
 @@||smoot.apple.com^
-@@||xp.apple.com^
-
-! --- Devices / firmware ---
-@@||logsink.devices.nest.com^
-@@||nvgs.nvidia.cn^
 @@||update.intl.miui.com^
-
-! --- 3D printing ---
-@@||mango3d.net^
 @@||waffle-lord.net^
-
-! --- Overig ---
+@@||wistia.com^
+@@||xp.apple.com^
 @@||gdl.adnlmedia.nl^
 @@||kpn.nl^
+@@||pagespeed.web.dev^
 @@||riven.wtfp.nl^
-
-@@||ads.google.com
-@@||
+@@||topspin.npo.nl^
 
